@@ -107,7 +107,7 @@ public class Main {
         }
         // Задание 9
         System.out.println("Задание 9");
-        int one =4;
+        int one =100;
         int two =4;
         int three =4;
         if (one>two) {
